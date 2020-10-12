@@ -16,12 +16,12 @@ https://therecipecritic.com/
 #1: Visibility of System Status
 
 This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without subscribing to emails or following on additional social media sites.
-**Severity Rating: 1/3
+**Severity Rating**: 1/3
 
 #2: Match Between System and the Real World
 
 The order in which recipes are listed on the home page and all other categories follows no logical order. On the current front page of the site, the four categories listed are "Appetizers," "Soup Recipes," "Dinner," and "Desserts." Three out of four of these are similar, however the seemingly random included categories are disorienting and make it more difficult to navigate.
-**Severity Rating: 1/3
+**Severity Rating**: 1/3
 
 #3: User Control and Freedom
 
