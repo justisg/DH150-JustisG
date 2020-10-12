@@ -15,7 +15,7 @@ Because of the large user-base of this site, the errors are much more important.
 ### 10 Heuristics
 #1: Visibility of System Status
 
-This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without following on additional social media sites. There is also no option to sign up for emails to get notified when there is a new recipe.
+This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without following on additional social media sites. There is also no option to sign up for emails to get notified when there is a new recipe. A user can create an account, however this option is only made clear when they try to favorite a recipe for the first time. This lack of information and clarity definitely would lead to a lower amount of users with accounts.
 **Severity Rating**: 2/3
 
 #2: Match Between System and the Real World
@@ -36,6 +36,7 @@ The language used on this site is very consistent and easily understandable. How
 #5: Error Prevention
 
 ![The Recipe Critic Search](./TRC-search.png)
+
 As seen in the above image, within the search, the error prevention is fairly useful and successful. Specifically, when mispelling ingredients or search terms, the majority of the time the site would be able to assume what was meant and show relevant search results. 
 **Severity Rating**: 0/3
 
@@ -46,8 +47,8 @@ Many of the categories on this site are incredibly broad, and therefore when a u
 
 #7: Flexibility and Efficiency of Use
 
-Within this site, there is no ability for a user to grow in their knowledge as there are no options for advanced settings or algorithms that take what you have viewed or saved in the past and recommend you new recipes. The only available customization is a user creating an account and then saving recipes they find to their account. Expanding the options on The Recipe Critic would help to improve the sites flexibility and efficiency.
-**Severity Rating**: 1/3
+Within this site, there is no ability for a user to grow in their knowledge as there are no options for advanced settings or algorithms that take what you have viewed or saved in the past and recommend you new recipes. The only available customization is a user creating an account, which is an option only found through trying to save a recipe for the first time, and then saving recipes they find to their account. Expanding the options on The Recipe Critic would help to improve the sites flexibility and efficiency.
+**Severity Rating**: 2/3
 
 #8: Aesthetic and Minimalist Design
 
@@ -71,30 +72,60 @@ This site does not have any sort of help page or information about how to naviga
 https://thesaltymarshmallow.com/
 
 ### Description
-
+The Salty Marshmallow is also a recipe blog started by one person, Nichole, posting information about meals and desserts. Nichole runs the blog with her husband Dan as the web designer. She has worked with many large brands and news sites, and has significant followings on social media sites as well, specifically Facebook.
 
 ### Evaluation
-
+This site has a significant amount of web design problems, with the most obvious being an overwhelming amount of information on each page, and a lack of error prevention. This site does allow for more interaction than others, in the form of an email sign up in conjunction with commenting, but there is difficulty finding certain aspects of the site because of the design choices.
 
 ### 10 Heuristics
 #1: Visibility of System Status
 
+Like many of these similar blogs, there is very little interactivity, other than the ability for users to comment on or save recipes. The Salty Marshmallow does allow for users to sign up for weekly emails for updates on posted recipes.
+**Severity Rating**: 2/3
 
 #2: Match Between System and the Real World
 
+The language used is very user-friendly and accessible. For example, to promote readers to sign up for the weekly emails, it states "Love food as much as we do?" which is a much more relevant and enticing way to connect to the users, rather than a more analytical explanation. 
+**Severity Rating**: 0/3
+
 #3: User Control and Freedom
-There is no ability to input specific ingredients, equipment, or information that would lead to a better match with a recipe. There is also no way to exclude recipes by lack of items.
+
+There is no ability to input specific ingredients, equipment, or information that would lead to a better match with a recipe. There is also no way to exclude recipes by lack of items. The search does allow for specificity in categories and when it was posted, but there is no option for searching by ingredient. 
+**Severity Rating**: 2/3
 
 #4: Consistency and Standards
 
+The site has consistent simple design on all pages, with the same header and footer, but like the previous blog, there is a lack of consistency in titles and ordering of the individual recipes. There is a significant amount of descriptive language, with some being completely useless in their description of the recipe. 
+**Severity Rating**: 1/3
+
 #5: Error Prevention
+
+![The Salty Marshmallow Search](./TSM-search.png)
+
+This website has a large problem with typos in the search bar. As seen in the above image, when a word is mispelled by one letter, no recipes or suggestions appear. 
+**Severity Rating**: 3/3
 
 #6: Recognition Rather than Recall
 
-#7: Flexibility and Efficiency of USe
+The categories on this site are simple and ordered well, and providing users the ability to narrow the categories down further is very useful. Providing clear options increases the ease of use of this site significantly, despite an overwhelming amount of options. 
+**Severity Rating**: 0/3
+
+#7: Flexibility and Efficiency of Use
+
+This site is flexible and efficient in its simplicity, but the more time spent on the site, the more frustrating the navigation becomes. The large amount of content and information on each page becomes overwhelming when searching for something like a contact form, but if a user is aiming to just browse recipes, this site is useful and efficient.
+**Severity Rating**: 2/3
 
 #8: Aesthetic and Minimalist Design
 
+This website is not minimalist at all, with every page containing a sinificant amount of images and descriptive text. For example, at the bottom of every page on the site, below the "Connect" and "About Me" sections are a list of the most popular recipes with images. There are eight recipes in this section, and they are very unnecessary and useless. Additionally, the images attached are blurry, and the placement of these recipes on the page are not helpful for users.
+**Severity Rating**: 3/3
+
 #9: Help Users Recognize, Diagnose, and Recover from Errors
 
+The error page has much more technical language than any of the other aspects of the site, but it does provide options to fix the problem, with a suggestion to search or return to the homepage with a hyperlink. When a search returns no results, there is no helpful information or suggestions, unlike the error page, which makes it more difficult for users to recover from a simple typo.
+**Severity Rating**: 2/3
+
 #10: Help and Documentation
+
+The Salty Marshmallow does not have a help page, also forcing a user with a problem to contact the site directly. The contact form is also hard to find, as it is within the "About Me" section. 
+**Severity Rating**: 1/3
