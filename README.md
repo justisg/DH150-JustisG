@@ -7,10 +7,10 @@ Cooking blogs and websites are incredibly popular, especially within the demogra
 https://therecipecritic.com/
 
 ### Description
-This recipe blog was started by one individual in 2012. Currently, it reaches over 10 million reader per month, more than 300,000 daily readers, and significant followings on major social media sites. Additionally, the site has been featured in many major news publications and has worked alongside very popular brands. 
+This recipe blog was started by one individual in 2012. Currently, it reaches over 10 million readers per month, more than 300,000 daily readers, and significant followings on major social media sites. Additionally, the site has been featured in many major news publications and has worked alongside very popular brands. 
 
 ### Evaluation
-Because of the large user-base of this site, the errors are much more important. Specifically, the fact that there are tabs on the homepage that do not lead anywhere is extremely detrimental. The simplicity of the site's goals means that it is still useful despite the problems and the core tasks can be accomplished, however the web design should be improved to further expand their users and improve the sites functionality.
+Because of the large user-base of this site, the errors are much more important. Specifically, the fact that there are tabs on the homepage that do not lead anywhere is extremely detrimental. The simplicity of the site's goals means that it is still useful despite the problems and the core tasks can be accomplished, however, the web design should be improved to further expand their users and improve the site's functionality.
 
 ### 10 Heuristics
 #1: Visibility of System Status
@@ -25,19 +25,19 @@ The order in which recipes are listed on the home page and all other categories 
 
 #3: User Control and Freedom
 
-There is an option within the header to seach "by ingredient," however selecting that does not take you to a new page. The same happens when the nearby "by cooking type" option is selected. Interestingly, when using the search bar, a user is able to search "by ingredient," but that ability is not made evident anywhere until it is discovered by accident.
+There is an option within the header to search "by ingredient," however selecting that does not take you to a new page. The same happens when the nearby "by cooking type" option is selected. Interestingly, when using the search bar, a user can to search "by ingredient," but that ability is not made evident anywhere until it is discovered by accident.
 **Severity Rating**: 2/3
 
 #4: Consistency and Standards
 
-The language used on this site is very consistent and easily understandable. However, as this site is typically used infrequently and users might view only one recipe, the infrequent defining of equipment or specific cooking techniques can be difficult. The lack of frequent definitions might force a reader to need to look up meanings on another website, decreasing efficiency and ease. Additionally, the naming of recipes is extremely varied, with some being just the simplest name of the dish and others including descriptive words like "super easy," "my favorite," and "melt in your mouth." These terms can be useful for readers, but the inconsistency makes it more difficult to compare recipes to eachother.
+The language used on this site is very consistent and easily understandable. However, as this site is typically used infrequently and users might view only one recipe, the infrequent defining of equipment or specific cooking techniques can be difficult. The lack of frequent definitions might force a reader to need to look up meanings on another website, decreasing efficiency and ease. Additionally, the naming of recipes is extremely varied, with some being just the simplest name of the dish and others including descriptive words like "super easy," "my favorite," and "melt in your mouth." These terms can be useful for readers, but the inconsistency makes it more difficult to compare recipes to each other.
 **Severity Rating**: 1/3
 
 #5: Error Prevention
 
 ![The Recipe Critic Search](./TRC-search.png)
 
-As seen in the above image, within the search, the error prevention is fairly useful and successful. Specifically, when mispelling ingredients or search terms, the majority of the time the site would be able to assume what was meant and show relevant search results. 
+As seen in the above image, within the search, the error prevention is fairly useful and successful. Specifically, when misspelling ingredients or search terms, the majority of the time the site would be able to assume what was meant and show relevant search results. 
 **Severity Rating**: 0/3
 
 #6: Recognition Rather than Recall
@@ -47,17 +47,17 @@ Many of the categories on this site are incredibly broad, and therefore when a u
 
 #7: Flexibility and Efficiency of Use
 
-Within this site, there is no ability for a user to grow in their knowledge as there are no options for advanced settings or algorithms that take what you have viewed or saved in the past and recommend you new recipes. The only available customization is a user creating an account, which is an option only found through trying to save a recipe for the first time, and then saving recipes they find to their account. Expanding the options on The Recipe Critic would help to improve the sites flexibility and efficiency.
+Within this site, a user cannot grow in their knowledge as there are no options for advanced settings or algorithms that take what you have viewed or saved in the past and recommend you new recipes. The only available customization is a user creating an account, which is an option only found through trying to save a recipe for the first time, and then saving recipes they find to their account. Expanding the options on The Recipe Critic would help to improve the flexibility and efficiency of the site.
 **Severity Rating**: 2/3
 
 #8: Aesthetic and Minimalist Design
 
-As this site is solely about food, the constant inclusion of images is very useful and helpful to the user. However, there is a significant amount of information on each page of the site that is unneccessary and clutters the page, making it very busy. Similar to the addition of descriptive words in the recipe titles, there is a lot of included information that is irrelevant and should instead allow for further text through the selection of certain buttons or possibly even hovering over the image. 
+As this site is solely about food, the constant inclusion of images is very useful and helpful to the user. However, there is a significant amount of information on each page of the site that is unnecessary and clutters the page, making it very busy. Similar to the addition of descriptive words in the recipe titles, there is a lot of included information that is irrelevant and should instead allow for further text through the selection of certain buttons or possibly even hovering over the image. 
 **Severity Rating**: 2/3
 
 #9: Help Users Recognize, Diagnose, and Recover from Errors
 
-When a non-existent url attached to The Recipe Critic is used, it shows an error page that states "Nothing Can Be Found" and "Perhaps searching can help" and then provides a search bar. This is very helpful to the user and allows for quick error correction. No distracting images are found on that page as well. The error message is very clear and indicates what the user needs to do.
+When a non-existent URL attached to The Recipe Critic is used, it shows an error page that states "Nothing Can Be Found" and "Perhaps searching can help" and then provides a search bar. This is very helpful to the user and allows for quick error correction. No distracting images are found on that page as well. The error message is very clear and indicates what the user needs to do.
 **Severity Rating**: 0/3
 
 #10: Help and Documentation
@@ -102,7 +102,7 @@ The site has consistent simple design on all pages, with the same header and foo
 
 ![The Salty Marshmallow Search](./TSM-search.png)
 
-This website has a large problem with typos in the search bar. As seen in the above image, when a word is mispelled by one letter, no recipes or suggestions appear. 
+This website has a large problem with typos in the search bar. As seen in the above image, when a word is misspelled by one letter, no recipes or suggestions appear. 
 **Severity Rating**: 3/3
 
 #6: Recognition Rather than Recall
@@ -117,7 +117,7 @@ This site is flexible and efficient in its simplicity, but the more time spent o
 
 #8: Aesthetic and Minimalist Design
 
-This website is not minimalist at all, with every page containing a sinificant amount of images and descriptive text. For example, at the bottom of every page on the site, below the "Connect" and "About Me" sections are a list of the most popular recipes with images. There are eight recipes in this section, and they are very unnecessary and useless. Additionally, the images attached are blurry, and the placement of these recipes on the page are not helpful for users.
+This website is not minimalist at all, with every page containing a significant amount of images and descriptive text. For example, at the bottom of every page on the site, below the "Connect" and "About Me" sections are a list of the most popular recipes with images. There are eight recipes in this section, and they are very unnecessary. Additionally, the images attached are blurry, and the placement of these recipes on the page are not helpful for users.
 **Severity Rating**: 3/3
 
 #9: Help Users Recognize, Diagnose, and Recover from Errors
