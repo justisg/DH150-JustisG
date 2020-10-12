@@ -14,7 +14,7 @@ https://therecipecritic.com/
 
 ### 10 Heuristics
 #1: Visibility of System Status
-This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without subscribing to emails or following on additional social media sites.
+  This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without subscribing to emails or following on additional social media sites.
 Severity Rating: 
 
 #2: Match Between System and the Real World
