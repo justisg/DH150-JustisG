@@ -7,10 +7,10 @@ Cooking blogs and websites are incredibly popular, especially within the demogra
 https://therecipecritic.com/
 
 ### Description
-
+This recipe blog was started by one individual in 2012. Currently, it reaches over 10 million reader per month, more than 300,000 daily readers, and significant followings on major social media sites. Additionally, the site has been featured in many major news publications and has worked alongside very popular brands. 
 
 ### Evaluation
-
+Because of the large user-base of this site, the errors are much more important. Specifically, the fact that there are tabs on the homepage that do not lead anywhere is extremely detrimental. The simplicity of the site's goals means that it is still useful despite the problems and the core tasks can be accomplished, however the web design should be improved to further expand their users and improve the sites functionality.
 
 ### 10 Heuristics
 #1: Visibility of System Status
