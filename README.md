@@ -14,44 +14,49 @@ https://therecipecritic.com/
 
 ### 10 Heuristics
 #1: Visibility of System Status
-  This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without subscribing to emails or following on additional social media sites.
-Severity Rating: 
+
+This site has a complete lack of any interactivity from the user, which I would argue is necessary for a useful recipe website. Despite frequent uploads from the author, there is no clear schedule or easily accessible information on new posts without subscribing to emails or following on additional social media sites.
+**Severity Rating: 1/3
 
 #2: Match Between System and the Real World
+
 The order in which recipes are listed on the home page and all other categories follows no logical order. On the current front page of the site, the four categories listed are "Appetizers," "Soup Recipes," "Dinner," and "Desserts." Three out of four of these are similar, however the seemingly random included categories are disorienting and make it more difficult to navigate.
-Severity Rating: 
+**Severity Rating: 1/3
 
 #3: User Control and Freedom
+
 There is an option within the header to seach "by ingredient," however selecting that does not take you to a new page. The same happens when the nearby "by cooking type" option is selected. Interestingly, when using the search bar, a user is able to search "by ingredient," but that ability is not made evident anywhere until it is discovered by accident.
-Severity Rating: 
+**Severity Rating: 2/3
 
 #4: Consistency and Standards
 
-Severity Rating: 
+The language used on this site is very consistent and easily understandable. However, as this site is typically used infrequently and users might view only one recipe, the infrequent defining of equipment or specific cooking techniques can be difficult. The lack of frequent definitions might force a reader to need to look up meanings on another website, decreasing efficiency and ease. Additionally, the naming of recipes is extremely varied, with some being just the simplest name of the dish and others including descriptive words like "super easy," "my favorite," and "melt in your mouth." These terms can be useful for readers, but the inconsistency makes it more difficult to compare recipes to eachother.
+**Severity Rating: 1/3
 
 #5: Error Prevention
 
-Severity Rating: 
+In the search feature, the error prevention is fairly useful and successful. Specifically, when mispelling ingredients or search terms, the majority of the time the site would be able to assume what was meant and show relevant search results. 
+**Severity Rating: 0/3
 
 #6: Recognition Rather than Recall
 
-Severity Rating: 
+**Severity Rating: 
 
 #7: Flexibility and Efficiency of USe
 
-Severity Rating: 
+**Severity Rating: 
 
 #8: Aesthetic and Minimalist Design
 
-Severity Rating: 
+**Severity Rating: 
 
 #9: Help Users Recognize, Diagnose, and Recover from Errors
 
-Severity Rating: 
+**Severity Rating: 
 
 #10: Help and Documentation
 
-Severity Rating: 
+**Severity Rating: 
 
 
 
