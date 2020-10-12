@@ -5,3 +5,44 @@ Cooking blogs and websites are incredibly popular, especially within the demogra
 ## The Recipe Critic
 ![The Recipe Critic Homepage](./TRC-screenshot.png)
 https://therecipecritic.com/
+
+### Description
+
+
+### Evaluation
+
+
+### 10 Heuristics
+#1: 
+#2:
+#3: 
+#4:
+#5: 
+#6:
+#7:
+#8:
+#9: 
+#10:
+
+
+## The Salty Marshmallow
+![The Salty Marshmallow Homepage](./TSM-screenshot.png)
+https://thesaltymarshmallow.com/
+
+### Description
+
+
+### Evaluation
+
+
+### 10 Heuristics
+#1: 
+#2:
+#3: 
+#4:
+#5: 
+#6:
+#7:
+#8:
+#9: 
+#10:
