@@ -35,7 +35,8 @@ The language used on this site is very consistent and easily understandable. How
 
 #5: Error Prevention
 
-In the search feature, the error prevention is fairly useful and successful. Specifically, when mispelling ingredients or search terms, the majority of the time the site would be able to assume what was meant and show relevant search results. 
+![The Recipe Critic Search](./TRC-search.png)
+As seen in the above image, within the search, the error prevention is fairly useful and successful. Specifically, when mispelling ingredients or search terms, the majority of the time the site would be able to assume what was meant and show relevant search results. 
 **Severity Rating**: 0/3
 
 #6: Recognition Rather than Recall
