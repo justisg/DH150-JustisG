@@ -16,9 +16,14 @@ This pilot usability test will be conducted in a quiet room in which the moderat
 First, the moderator will provide background information about the test to the participant through an introduction. Then the participant will be able to give informed consent and begin to fill out a pre-test questionnaire on whether they have used this site or similar sites in the past. The test consists of three tasks in which the user will be asked to navigate the site as they normally would, while speaking aloud about their thought process. After the tasks are complete, the participant will answer post-test questions about their experience on the website. This will allow for information on how easy it was to understand and use, how flexible the site was, aesthetics, and organization, along with any other problems they encountered during the test. The survey wil conclude with a demographic questionnaire, which will remain confidential and anonymous.
 
 ### Survey
-
+Here is a link to the moderator script and participant survey. [Click Here](https://thesaltymarshmallow.com/)
 
 ### Video
-
+Here is a link to the usability test video and screen recording. [Click Here]
 
 ### Reflection
+Through this usability test, I learned a lot about the process of testing websites, along with a significant amount of information on what is useful and what is not on The Salty Marshmallow and recipe websites at large.
+
+The participant helped illuminate a lot of problems I had noticed during my initial heuristic evaluation of the site, and also helped bring attention to different difficulties that I had not noticed originally. For example, watching the participant view the recipe page and notice the useful tips in the beginning, but have trouble finding the exact recipe made it clear to me that organization within the individual recipe pages was an issue as well. As a moderator, I found it difficult to not interject with information or lead the participant because I have experience with the site that would help them navigate more quickly, however the best information received from this test was with no leading from me as the moderator. Being able to observe the participant and listen to their thought processes was extremely useful in understanding the usability of the site. 
+
+Overall, I believe the test went very well and was extremely helpful. The participant did a very good job of speaking aloud and navigating the site as they normally would. I also appreciated the explanations of the participant's personal experiences on similar sites and their reasoning for the survey questions was very well thought out and helpful. Only a few technical issues occured, specifically within the test survey. Some of the questions required a selection of multiple options, but the survey would only allow for one option to be selected. Luckily, the video was recording and captured the participant's point of view and selections for those questions. In the future, I would double check the survey for functionality before testing a participant. Currently, the survey is fixed and will allow for multiple selections on future usability tests. 
