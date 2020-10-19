@@ -19,7 +19,7 @@ First, the moderator will provide background information about the test to the p
 Here is a link to the moderator script and participant survey. [Click Here](https://forms.gle/gcBazmPsnLWPua7A8)
 
 ### Video
-Here is a link to the usability test video and screen recording. [Click Here]
+Here is a link to the usability test video and screen recording. [Click Here](https://youtu.be/LYzyrRDaORg)
 
 ### Reflection
 Through this usability test, I learned a lot about the process of testing websites, along with a significant amount of information on what is useful and what is not on The Salty Marshmallow and recipe websites at large.
