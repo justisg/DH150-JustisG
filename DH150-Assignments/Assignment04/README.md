@@ -1,4 +1,3 @@
-#DH150 Assignment 4: Contextual Inquiry
 # Contextual Inquiry
 ## DH150 - Justis Guardia
 
@@ -52,11 +51,11 @@ And the transcription of the interview can be found [here.](https://docs.goog
 
 ### Meaningful Insights from the Interview:
 
-"I would rather have less information. I don't mind a few pictures, but I don't want to hear about someone's opinions about shopping for string to wrap a roast in. So I would like it to be quicker and that I can get through it without having to scroll too much."
+*"I would rather have less information. I don't mind a few pictures, but I don't want to hear about someone's opinions about shopping for string to wrap a roast in. So I would like it to be quicker and that I can get through it without having to scroll too much."*
 
 This is a very interesting quote that defines the dislike of users to have too much excess information within the page of the recipe. It seemed to be a constant critique, both on this site in particular and on recipe blogs in general, that there is too much description and useless details to find it easy to access and understand the recipe.
 
-"I think I might get lost in a site and look for recipes. And I could find myself spending five or 10 minutes looking around to see something if they had it presented in an interesting way."
+*"I think I might get lost in a site and look for recipes. And I could find myself spending five or 10 minutes looking around to see something if they had it presented in an interesting way."*
 
 Because recipe sites are supposed to be useful tools for cooks, browsing is a less important factor in the ease and usefullness of the site, but it is interesting to see what would lead someone to want to browse for longer on the site. Images and good organization seem to be the most important factors.
 
