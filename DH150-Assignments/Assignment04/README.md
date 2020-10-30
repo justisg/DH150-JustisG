@@ -42,7 +42,7 @@ The observation method I employed was direct observation. I interviewed my part
 Please find my script for this interview [here,](https://docs.google.com/document/d/18IaNUhrOsmgxBrQLpLdWWaS62Dt3Up7yGhmgOiYkVtQ/edit?usp=sharing)
 
 2. User Data
-The recording of the interview can be found [here.](https://youtu.be/HlcEtQXNyh0)
+The recording of the interview can be found [here.](https://youtu.be/Tl-EO1Cp0qE)
 And the transcription of the interview can be found [here.](https://docs.google.com/document/d/1_nwkYwQnnZFXqSo83Olqb0EjseHXVnzF4P8IIfNLIU4/edit?usp=sharing)
 
 ### Meaningful Insights from the Interview:
