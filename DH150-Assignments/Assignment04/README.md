@@ -1,4 +1,5 @@
-# DH150 Assignment 4: Contextual Inquiry
+# Contextual Inquiry
+## DH150 - Justis Guardia
 
 ## Introductory Steps
 
@@ -53,11 +54,11 @@ I conducted participatory observation research with a friend who fits my targe
 
 ### Participatory Research Materials
 1. Contextual Inquiry Guide
-Please find my script for this interview [here,] with an introduction, goals, and contextual questions.
+Please find my script for this interview [here,](https://docs.google.com/document/d/18IaNUhrOsmgxBrQLpLdWWaS62Dt3Up7yGhmgOiYkVtQ/edit?usp=sharing)
 
 2. User Data
-Please find the recording of the interview [here.]
-The transcription of the interview can be found [here.]
+The recording of the interview can be found [here.](https://youtu.be/HlcEtQXNyh0)
+And the transcription of the interview can be found [here.](https://docs.google.com/document/d/1_nwkYwQnnZFXqSo83Olqb0EjseHXVnzF4P8IIfNLIU4/edit?usp=sharing)
 
 ### Here are some interesting quotes and insights from the interview:
 How the user chooses to plan their parking ahead of time (3:04)
