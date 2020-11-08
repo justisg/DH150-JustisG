@@ -13,7 +13,7 @@ The Layout and Organization
 The Interactivity
 ## Personas and Empathy Maps
 ### Joseph Gonzalez
-![Joseph Gonzalez Persona](./JGPer.png)
+![Joseph Gonzalez Persona](JGPer.png)
 ![Joseph Gonzalez Empathy Map](./JEmp.png)
 
 ### Christina Murphy
@@ -46,4 +46,4 @@ The Interactivity
 * She goes to a website that she remembers using before that was successful in the past. Rather than searching for anything in particular, she browses the front page of the blog, looking at the pictures and the titles of the recipes. She opens the recipes she is potentially interested in in a new tab so that she can compare them after she is done browsing. Nancy is really taking her time browsing the site, as she enjoys looking at the options. She notices that there is a tab on the header that says popular recipes, so she clicks on that next to look at recipes that are enjoyed by many people but she is looking in particular for those she has not tried before. 
 * Nancy is able to find a recipe that looks delicious, would work for leftovers, she has never made before, and has parts in which her children would enjoy participating. It took her a significant amount of time to find this recipe, but because she enjoys it, she was not bothered by the large time commitment. She closes her laptop to go see if she needs to purchase any ingredients.
 
-![Nancy Parker Journey Map](./NMap.png.png)
+![Nancy Parker Journey Map](./NMap.png)
