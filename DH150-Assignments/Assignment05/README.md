@@ -8,9 +8,11 @@ Storytelling through user experience is important so the designer can best know 
 ### Design Features
 
 After studying The Salty Marshmallow, the features I have identified to implement or improve are:
-The Search Bar
-The Layout and Organization
-The Interactivity
+
+1. The Search Bar
+2. The Layout and Organization
+3. The Interactivity
+
 ## Personas and Empathy Maps
 ### Joseph Gonzalez
 ![Joseph Gonzalez Persona](JGPer.png)
