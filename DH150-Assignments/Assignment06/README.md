@@ -24,5 +24,19 @@ The purpose of these low-fidelity prototypes is to take the new introductions to
 3. Browsing Popular/Well-Reviewed Recipes on the Site
 
 ### Wireframes
+
 ### Wireflow
+
 ### Conclusion
+#### Successes:
+Task 1:
+Task 2:
+Task 3:
+#### Problems:
+Task 1: 
+Task 2:
+Task 3:
+#### Changes:
+
+
+#### Notes:
