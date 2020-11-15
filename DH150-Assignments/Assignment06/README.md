@@ -5,23 +5,23 @@ In this project, I am going to be redesigning the typical cooking blog website, 
 
 From the findings from my research, I created three personas:
 
-	1. Joseph, a social worker with a passion for entertaining who does not know very much about cooking but is interested in expanding his skills for his friends, some of which who have dietary restrictions
-	2. Christina, an accountant who enjoys finding new, easy, and healthy recipes for her family, despite her lack of time
-	3. Nancy, a nurse, mother, and wife, who loves and is very knowledgeable about cooking, especially enjoying finding brand new recipes to try
+1. Joseph, a social worker with a passion for entertaining who does not know very much about cooking but is interested in expanding his skills for his friends, some of which who have dietary restrictions
+2. Christina, an accountant who enjoys finding new, easy, and healthy recipes for her family, despite her lack of time
+3. Nancy, a nurse, mother, and wife, who loves and is very knowledgeable about cooking, especially enjoying finding brand new recipes to try
 
 Based on these personas and their goals, I chose features to assist them:
 	
-	1. Filtering recipes by level of difficulty and dietary restrictions for individuals like Joseph.
-	2. Finding recipes by specific ingredients for someone like Christina who does not have much time to go and purchase extra ingredients.
-	3. Browsing popular and well-reviewed recipes on the site, so that someone like Nancy can enjoy looking for new recipes.
+1. Filtering recipes by level of difficulty and dietary restrictions for individuals like Joseph.
+2. Finding recipes by specific ingredients for someone like Christina who does not have much time to go and purchase extra ingredients.
+3. Browsing popular and well-reviewed recipes on the site, so that someone like Nancy can enjoy looking for new recipes.
 
 The purpose of these low-fidelity prototypes is to take the new introductions to the site and see if a user can navigate through the proposed organization, testing the functionality and ease in particular. I can then identify the issues and additions that the user proposes. I will then be able to alter and revise the prototype before going further with the prototype. 
 
 ### Tasks Supported by Prototype
 
-	1. Filter Recipes by Cooking Materials, Level of Difficulty, and/or Dietary Restrictions
-	2. Finding a Recipe by Specific Ingredients
-	3. Browsing Popular/Well-Reviewed Recipes on the Site
+1. Filter Recipes by Cooking Materials, Level of Difficulty, and/or Dietary Restrictions
+2. Finding a Recipe by Specific Ingredients
+3. Browsing Popular/Well-Reviewed Recipes on the Site
 
 ### Wireframes
 ### Wireflow
