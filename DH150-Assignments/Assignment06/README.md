@@ -25,9 +25,11 @@ The purpose of these low-fidelity prototypes is to take the new introductions to
 
 ### Wireframes
 
+[Wireframe](/Wireframe.png)
 [Here](https://drive.google.com/file/d/1SAxC6wc5XFpBPR3RA0NLo5b6VGn0xhfS/view?usp=sharing) is a link to the wireframes as well.
 
 ### Wireflow
+[Wireflow](./Wireflow.png)
 
 ### Conclusion
 
