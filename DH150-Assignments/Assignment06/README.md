@@ -25,6 +25,8 @@ The purpose of these low-fidelity prototypes is to take the new introductions to
 
 ### Wireframes
 
+[Here](https://drive.google.com/file/d/1SAxC6wc5XFpBPR3RA0NLo5b6VGn0xhfS/view?usp=sharing) is a link to the wireframes as well.
+
 ### Wireflow
 
 ### Conclusion
