@@ -33,27 +33,26 @@ The purpose of these low-fidelity prototypes is to take the new introductions to
 
 ![Wireflow](./Wireflow.png)
 
-### User Wireflow and Notes
+### User Interaction
 
 ![User Wireflow](./UserWF.png)
 
 ### Conclusion
+Through this task I was able to try to put myself in a user's perspective and design the site to best suit the needs of those that will be most using the site. Because of this, I decided to prioritize searching for recipes based on certain filters and criterea instead of the typical layout that focuses on users that will be casually browsing through many recipes. Through my research, I learned that many individuals rely on cooking websites to be consice and easy to navigate, as they typically are using it just for the one recipe and may leave. The goal with my design is to have an involved user-rating system and a very simplistic design aimed at getting users to return to the site. 
 
 #### Successes:
-Task 1:
+Task 1: Found the filtration options very useful. Likes the ability to filter on the home page or on the search page. Also likes the ingredient filter options. Really enjoyed the prominence of the difficulty filter.
 
-Task 2:
+Task 2: Similar successes to the previous filtration task. Enjoyed the clean design and ability to easily identify the filters and available options. 
 
-Task 3:
+Task 3: Enjoys the ability to scroll with a feed and browse casually on the newest recipes page. Really enjoyed the filtration options available. 
 
 #### Problems:
-Task 1: 
+Task 1: Suggested that if the difficulty filter is decided by the author or chef, it will seem to users as biased by someone with extensive cooking experience. Proposed allowing users to rate the recipe on its difficulty as well.
 
-Task 2:
+Task 2: Wanted the ability to exclude certain groups of food.  
 
-Task 3:
+Task 3: There was a slight issue in which the user was unable to quickly find the "Newest Recipes" button or page. This would be solved through color and font choices. The user suggested consolidating the browsing section into a general recipes section with a primary filter option to choose either "Sort by New" or "Sort by Most Popular," etc. 
 
-#### Changes:
-
-
-#### Notes:
+#### Changes and Notes:
+Because of the information I received from the user testing of my wireframes, I have decided to make minor changes on some of the pages. I need to make it more clear where you can scroll and in what direction. I want to edit some of the filter options I currently have, additionally changing the filter organization on pages designed for more casual browsing. I believe that the user's idea to consolidate the browsing pages to have primary and secondary filters would be very useful. I will change the site to reflect that and so that selecting the "Newest Recipes" button will take you to the consolidated page with the "Sort by New" filter already selected. One of the additions that recieved the best review was moving the "Tips" section on the specific recipe pages to the bottom. About this, the user said "it is nice get to the necessary steps first, and then the fluff." They discussed how, when cooking and shopping, it is better to have the most important information at the top of the page as "the less you have to touch and interact with it to get to the recipe, the better"
