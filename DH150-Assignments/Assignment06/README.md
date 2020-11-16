@@ -33,6 +33,10 @@ The purpose of these low-fidelity prototypes is to take the new introductions to
 
 ![Wireflow](./Wireflow.png)
 
+### User Wireflow and Notes
+
+![User Wireflow](./UserWF.png)
+
 ### Conclusion
 
 #### Successes:
