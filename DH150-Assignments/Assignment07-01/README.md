@@ -19,7 +19,7 @@ The distinctive screen designs I have chosen are:
 As this is a recipe blog, when choosing the color-scheme and typography, I prioritized bright and energetic colors. However I needed to make sure that the design was very clean and organized, as that is an important part of a website designed to provide information. In regard to typography, I needed a font that is fun to match the color scheme and feeling of the website, but I also needed to choose one that was extremely legible, even from a distance. After multiple options, I chose Tondo for the majority of text on the website with Chippewa Falls for the title of the blog. My main goal in the design of the blog is to keep it very concise and clear, with an emphasis on minimalism, as those are one of the biggest problems with cooking blogs presently. 
 
 #### Typography Tests
-![Typography Test #1](./typotest1.png = 720x405)
+![Typography Test #1](./typotest1.png width="48")
 
 ![Typography Test #2](./typotest2.png)
 
