@@ -34,6 +34,8 @@ As this is a recipe blog, when choosing the color-scheme and typography, I prior
 
 <img src="./typotest3.png" width="600">
 
+
+
 #### Color Tests
 
 #1
@@ -60,11 +62,16 @@ Through this test, I was able to identify some issues with the current version o
 ### Accessibility Test
 Because of the importance of readability on this type of website, I utilized a large amount of black text on the white background. This was a successful color combination when checking it on accessibility and color contrast sites.   Here are screenshots of color contrast checks with the other colors I utilized behind some of the text on the website:
 
+#1
 
 ![Color Contrast #1](./contrast1.png)
 
 
+#2
+
 ![Color Contrast #2](./contrast2.png)
+
+
 
 To continue checking accessibility, I also analyzed the site through browser extensions that imitate what it would look like for color blind users with various types of color blindness.
 
@@ -83,6 +90,7 @@ Here are screenshots of these tests as well:
 #3 Low-Contrast
 
 ![Low-Contrast](./colorblind3.png)
+
 
 
 Through these tests, I was shown that choosing high contrast colors is extremely important. I found it extremely interesting to look at what the site would look like low-contrast specifically. There are many various cooking conditions in which the screen would be much more difficult to see, such as outdoors, so making sure that even with a low-contrast filter, the text is completely visible. I did realize, however, the importance of having the photos included on the site be high-contrast as well. The description of the recipes being visible is extremely important, but to fully give the user all the necessary information, having very clear images is required. It is also essential for accessibility to have well-written descriptions of the photos and concise recipes generally, for those who have further eyesight disabilities. 
