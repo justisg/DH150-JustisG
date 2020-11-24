@@ -59,8 +59,10 @@ Through this test, I was able to identify some issues with the current version o
 
 ### Accessibility Test
 Because of the importance of readability on this type of website, I utilized a large amount of black text on the white background. This was a successful color combination when checking it on accessibility and color contrast sites.   Here are screenshots of color contrast checks with the other colors I utilized behind some of the text on the website:
-<img src="./contrast1.png" width=“600">
-<img src="./contrast2.png" width="600">
+
+<img src="./contrast1.png" width=“400">
+                                      
+<img src="./contrast2.png" width="400">
 
 To continue checking accessibility, I also analyzed the site through browser extensions that imitate what it would look like for color blind users with various types of color blindness.
 
