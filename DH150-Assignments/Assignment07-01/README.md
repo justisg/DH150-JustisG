@@ -68,14 +68,14 @@ Here are screenshots of these tests as well:
 
 #1 Protanopia
 
- <img src="./colorblind1.png" width=“600”>
+ <img src="./colorblind1.png" width=“400”>
 
 #2 Achromatopsia
 
-<img src="./colorblind2.png" width=“600”>
+<img src="./colorblind2.png" width=“400”>
 
 #3 Low-Contrast
 
-<img src="./colorblind3.png" width=“600”>
+<img src="./colorblind3.png" width=“400”>
 
 Through these tests, I was shown that choosing high contrast colors is extremely important. I found it extremely interesting to look at what the site would look like low-contrast specifically. There are many various cooking conditions in which the screen would be much more difficult to see, such as outdoors, so making sure that even with a low-contrast filter, the text is completely visible. I did realize, however, the importance of having the photos included on the site be high-contrast as well. The description of the recipes being visible is extremely important, but to fully give the user all the necessary information, having very clear images is required. It is also essential for accessibility to have well-written descriptions of the photos and concise recipes generally, for those who have further eyesight disabilities. 
