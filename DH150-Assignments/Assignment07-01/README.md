@@ -26,25 +26,25 @@ As this is a recipe blog, when choosing the color-scheme and typography, I prior
 
 #2
 
-<img src="./typotest2.png" width="720">
+<img src="./typotest2.png" width="600">
 
 #3
 
-<img src="./typotest3.png" width="720">
+<img src="./typotest3.png" width="600">
 
 #### Color Tests
 
 #1
 
-<img src="./colortest1.png" width="720">
+<img src="./colortest1.png" width="600">
 
 #2
 
-<img src="./colortest2.png" width="720">
+<img src="./colortest2.png" width="600">
 
 #3
 
-<img src="./colortest3.png" width="720">
+<img src="./colortest3.png" width="600">
 
 
 ### Impression Test
