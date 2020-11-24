@@ -22,7 +22,7 @@ As this is a recipe blog, when choosing the color-scheme and typography, I prior
 
 #1
 
-<img src="./typotest1.png" width="720">
+<img src="./typotest1.png" width="600">
 
 #2
 
