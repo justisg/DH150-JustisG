@@ -54,7 +54,7 @@ As this is a recipe blog, when choosing the color-scheme and typography, I prior
 
 
 ### Impression Test
-[Here]() is a screen recording of my first impression test on this version of the prototype.
+[Here](https://drive.google.com/file/d/1L08C59PST-3HGOmTU2BrYu29L4FMPNp8/view?usp=sharing) is a brief screen recording of my first impression test on this version of the prototype, though the user looked at the site for longer than the video shows.
 
 Through this test, I was able to identify some issues with the current version of my website, along with some additions and inclusions that were said to be an improvement on cooking blogs, according to the individual testing the site.  For example, the user really enjoyed the simple color scheme at the header and the minimalist color design for the rest of the web pages. They did not particiularly enjoy the addition of the orange color for the search bar. Further down on the home page is the subscription box, and the user said that the wording on it was slightly confusing, due to the sentence continuing with two different font sizes. About the recipe page, they said that the "proportions are great and it's really well formatted." They added that aesthetically, the food images really pop on the background and the bright color scheme was well-suited for the type of website it is. Overall, they said that they like the site's minimalism and said they felt familiar with it's layout and design immediately. 
 
