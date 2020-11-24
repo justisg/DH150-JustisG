@@ -20,7 +20,7 @@ As this is a recipe blog, when choosing the color-scheme and typography, I prior
 
 #### Typography Tests
 ![Typography Test #1](./typotest1.png)
-<img src="./typotest1.png" width="48">
+<img src="./typotest1.png" width="720">
 
 ![Typography Test #2](./typotest2.png)
 
