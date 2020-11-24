@@ -23,16 +23,20 @@ As this is a recipe blog, when choosing the color-scheme and typography, I prior
 <img src="./typotest1.png" width="720">
 
 ![Typography Test #2](./typotest2.png)
+<img src="./typotest2.png" width="720">
 
 ![Typography Test #3](./typotest3.png)
+<img src="./typotest4.png" width="720">
 
 #### Color Tests
 ![Color Test #1](./colortest1.png)
+<img src="./colortest1.png" width="720">
 
 ![Color Test #2](./colortest2.png)
+<img src="./colortest2.png" width="720">
 
 ![Color Test #3](./colortest3.png)
-
+<img src="./colortest3.png" width="720">
 
 ### Impression Test
 
