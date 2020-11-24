@@ -1,6 +1,8 @@
 # High Fidelity Prototype
 ## DH150 - Justis Guardia
 
+### Prototype Link
+Please find the current version of my prototype [here](https://xd.adobe.com/view/96e004fc-d942-4649-86ad-a95e3e0938cd-c3b3/). 
 ### Graphic Design
 
 #### Low-Fidelity Prototype Review
@@ -16,7 +18,7 @@ The distinctive screen designs I have chosen are:
 
 #### Color, Typography, and Design Options
 
-As this is a recipe blog, when choosing the color-scheme and typography, I prioritized bright and energetic colors. However I needed to make sure that the design was very clean and organized, as that is an important part of a website designed to provide information. In regard to typography, I needed a font that is fun to match the color scheme and feeling of the website, but I also needed to choose one that was extremely legible, even from a distance. After multiple options, I chose Tondo for the majority of text on the website with Chippewa Falls for the title of the blog. My main goal in the design of the blog is to keep it very concise and clear, with an emphasis on minimalism, as those are one of the biggest problems with cooking blogs presently. 
+As this is a recipe blog, when choosing the color-scheme and typography, I prioritized bright and energetic colors. The colors I chose in particular are inspired by the colors of fruit. I chose to not only use bright colors, and use white as my background and black for the majority of my text to have high readability and accessibility, while still having an interesting and colorful as possible. However I needed to make sure that the design was very clean and organized, as that is an important part of a website designed to provide information. In regard to typography, I needed a font that is fun to match the color scheme and feeling of the website, but I also needed to choose one that was extremely legible, even from a distance. After multiple options, I chose Tondo for the majority of text on the website with Chippewa Falls for the title of the blog. My main goal in the design of the blog is to keep it very concise and clear, with an emphasis on minimalism, as those are one of the biggest problems with cooking blogs presently. 
 
 #### Typography Tests
 
