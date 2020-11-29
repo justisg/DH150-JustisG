@@ -3,7 +3,7 @@
 ### Prototype Link
 Please find the current version of my prototype [here](Dfjaljflasdf).
 
-Further information on this high fidelity prototype can be found [here](https://github.com/justisg/DH150-JustisG/blob/main/DH150-Assignments/Assignment07-02/README.md).
+Further information on this high fidelity prototype can be found [here](https://github.com/justisg/DH150-JustisG/blob/main/DH150-Assignments/Assignment07-01/README.md).
 
 ### Design
 More information about the design process can be found on the page linked above, however since that version of the prototype I have edited a few aspects of the design. In particular, I changed the design of the search bar in the center of the home page and the search page. From comments from other students in the class, I was made aware that the search bar looked more like a button, and as such might lead users to not understand its function at a quick glance. Because of this, I changed it to look more like a traditional search bar to hopefully improve the usability. 
