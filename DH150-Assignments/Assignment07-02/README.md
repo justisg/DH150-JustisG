@@ -33,7 +33,7 @@ Here is a screenshot of the many wireflows and interactivity options within the 
 Through feedback from fellow students, I added back buttons to every page that allow the user to return to the previously viewed page in the prototype. I also added more pages to the site and edited the wireflows to reflect that. In particular I added a “Saved Recipes” page which is accessible from every page. In my original prototype, the header said “Log In,” but this version of the prototype assumes that the user is already logged in, as this would give them access to their saved recipes. 
 
 ### Cognitive Walkthrough
-A screen recording of this cognitive walkthrough can be found [here](alskjf).
+A screen recording of this cognitive walkthrough can be found [here](https://drive.google.com/file/d/1_n6fUx_FUhb0AyuXs8W-k2GIWGCsxCcK/view?usp=sharing).
 
 Through this cognitive walkthrough, I was able to see that the majority of the pages on the site is very consistent and understandable. Some specific comments from the user were “”. After this walkthrough, I edited _______. This changes are made available in the linked version of the prototype.
 
