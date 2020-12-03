@@ -37,17 +37,24 @@ Here is one of three user personas, scenarios, and empathy maps:
 
 See the other two personas, scenarios, and empathy maps [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment05/).
 
-### Wireframe and Graphic Design
+### Wireframes and Design
 
 
 ### Low-Fidelity Prototype
+This low-fidelity prototype was used to see the organization of the site and see the flow between the screens. This is a very basic way to test the website and it is much easier to edit when moving to a high-fidelity prototype. When designing this prototype, I made sure to emphasize my goals for the project which were organization, clarity, and ease. I wanted this site to be immediately understood by a user and be free of any major distractions or confusing aspects. 
 
+Here is an image of my original wireflow.
+![Wireflow](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment06/Wireflow.png)
+
+Read more about my low-fidelity prototype [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment06/).
 
 ### High-Fidelity Prototype
-
+Attached is the high-fidelity prototype of the website.
 
 ### Evaluations and Revisions
+I conducted two usability tests online over Zoom and two usability tests in person. I was able to screen record two of the tests to see how the users interacted with the high-fidelity prototype and which features they were most drawn to. I also was able to speak with these users to find their opinions, thoughts, and comments on the site. 
 
+Some of the important notes and findings taken from these tests were
 
 ### Pitch Video
 
