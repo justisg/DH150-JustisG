@@ -17,6 +17,9 @@ Redesigning cooking blogs is extremely important for middle-aged women with busy
 </tr>
 </table>
 
+<img src=”https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TRC-screenshot.png” height=”300px”> 
+<img src=”https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TSM-screenshot.png” height=”300px”>
+
 ### User Research
 
 
