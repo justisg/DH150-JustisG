@@ -10,8 +10,12 @@ Cooking is a large part of many individual's lives and takes up a significant am
 ### Competitor Analysis
 Redesigning cooking blogs is extremely important for middle-aged women with busy schedules and lives. To keep users organized, it is not only important to have an easily navigable site, but also the specific recipes must be easy to understand and read quickly. These necessities are missing on many popular cooking blogs, like the two I studied within the competitor analysis. Looking specifically at two frequently-used blogs, I evaluated the sites to design my own more simplified website. See more [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment02/).
 
-https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TRC-screenshot.png
-https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TSM-screenshot.png
+<table>
+<tr>
+<td> <img src=”https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TRC-screenshot.png” height=”300px”> </td>
+<td> <img src=”https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TSM-screenshot.png” height=”300px”> </td>
+</tr>
+</table>
 
 ### User Research
 
