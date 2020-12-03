@@ -8,7 +8,10 @@ Squeeze the Day is a cooking blog allowing for users to browse recipes in a very
 Cooking is a large part of many individual's lives and takes up a significant amount of time. Especially for families and parents with full time jobs, finding time to find a recipe, buy new ingredients, figure out how to cook it, etc. is too much. Additionally, current popular cooking blogs are overrun with advertisements and walls of text with unecessary details that can be useful but are not mandatory to cook the dish. Squeeze the Day is designed to improve the experience of cooking blogs generally, focusing on the target audience of middle-aged women, and making a site that is easy to use, navigate, and understand.
 
 ### Competitor Analysis
+Redesigning cooking blogs is extremely important for middle-aged women with busy schedules and lives. To keep users organized, it is not only important to have an easily navigable site, but also the specific recipes must be easy to understand and read quickly. These necessities are missing on many popular cooking blogs, like the two I studied within the competitor analysis. Looking specifically at two frequently-used blogs, I evaluated the sites to design my own more simplified website. See more [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment02/).
 
+https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TRC-screenshot.png
+https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TSM-screenshot.png
 
 ### User Research
 
