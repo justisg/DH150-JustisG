@@ -24,8 +24,7 @@ Obtaining research through testing, like usability testing and contextual inquir
 </figure>
 <!-- blank line →>
 
-
-
+[![User Research](https://img.youtube.com/vi/Tl-EO1Cp0qE/0.jpg)](https://www.youtube.com/watch?v=Tl-EO1Cp0qE)
 
 ### UX Storytelling
 
