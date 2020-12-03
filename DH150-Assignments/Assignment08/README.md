@@ -10,15 +10,17 @@ Cooking is a large part of many individual's lives and takes up a significant am
 ### Competitor Analysis
 Redesigning cooking blogs is extremely important for middle-aged women with busy schedules and lives. To keep users organized, it is not only important to have an easily navigable site, but also the specific recipes must be easy to understand and read quickly. These necessities are missing on many popular cooking blogs, like the two I studied within the competitor analysis. Looking specifically at two frequently-used blogs, I evaluated the sites to design my own more simplified website. See more [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment02/).
 
-![The Recipe Critic](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TRC-screenshot.png)
-![The Salty Marshmallow](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TSM-screenshot.png)
-
 The Recipe Critic | The Salty Marshmallow
 -------------------------------------------|---------------------------------------------
 <img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TRC-screenshot.png" height="300px"> | <img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment01/TSM-screenshot.png" height="300px">
 
 
 ### User Research
+Obtaining research through testing, like usability testing and contextual inquiries, helps a designer identify problems with the product to improve how it is used. These types of tests allow for a designer to see how a user would react in real time with the product. They can show problems in the product but also show aspects that are well-liked or easily understood by the user. It is difficult for a designer to see there product in an unobjective way, so it is very useful to bring in outsiders. This is an important step of testing and designing as it can change the design earlier to prevent more work in the future and provides extremely useful information. Read more about the user research [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment04/).
+
+[![User Research](https://www.youtube.com/watch?v=Tl-EO1Cp0qE.jpg)]https://www.youtube.com/watch?v=Tl-EO1Cp0qE "J. Guardia")
+
+
 
 
 ### UX Storytelling
