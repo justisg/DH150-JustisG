@@ -18,16 +18,24 @@ The Recipe Critic | The Salty Marshmallow
 ### User Research
 Obtaining research through testing, like usability testing and contextual inquiries, helps a designer identify problems with the product to improve how it is used. These types of tests allow for a designer to see how a user would react in real time with the product. They can show problems in the product but also show aspects that are well-liked or easily understood by the user. It is difficult for a designer to see there product in an unobjective way, so it is very useful to bring in outsiders. This is an important step of testing and designing as it can change the design earlier to prevent more work in the future and provides extremely useful information. Read more about the user research [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment04/).
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=Tl-EO1Cp0qE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line →>
+Find an example of user research and contextual inquiry [here](https://www.youtube.com/watch?v=Tl-EO1Cp0qE).
 
-[![User Research](https://img.youtube.com/vi/Tl-EO1Cp0qE/0.jpg)](https://www.youtube.com/watch?v=Tl-EO1Cp0qE)
 
 ### UX Storytelling
+UX Storytelling is used to understand target users from a more intimate level and work to understand their thought processes. This allows for a designer to take a specific user's goals and intentions in mind while designing the site. 
 
+Through my experience with UX Storytelling, I chose three features to focus on and prioritize when desining the site:
+1. Search Bar
+2. Layout and Organization
+3. Interactivity
+
+Here is one of three user personas, scenarios, and empathy maps:
+![Joseph Persona](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment05/JGPer.png)
+![Joseph Empathy Map](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment05/JEmp.png)
+![Joseph Scenario](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment05/JMap.png)
+
+
+See the other two personas, scenarios, and empathy maps [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment05/).
 
 ### Wireframe and Graphic Design
 
