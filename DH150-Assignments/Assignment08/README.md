@@ -74,13 +74,27 @@ Here is a finalized version of the site's wireflow.
 
 Read more about the high-fidelity prototype design, testing, and changes [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-02/).
 
-Find the finalized version of the prototype [here](https://xd.adobe.com/embed/96e004fc-d942-4649-86ad-a95e3e0938cd-c3b3").
+Find the finalized version of the prototype [here](https://xd.adobe.com/embed/96e004fc-d942-4649-86ad-a95e3e0938cd-c3b3).
 
 ### Evaluations and Revisions
 I conducted two usability tests online over Zoom and two usability tests in person. I was able to screen record two of the tests to see how the users interacted with the high-fidelity prototype and which features they were most drawn to. I also was able to speak with these users to find their opinions, thoughts, and comments on the site. 
 
-Some of the important notes and findings taken from these tests were
+Some of the important additions I made after these tests were:
+* Back buttons on individual pages
+* Saved Recipes page
+* Clearer search bar
+* Edited header for users
+* More readable text in the subscription box
+* Ability to close the search filters
 
+Some important notes I received from these tests were:
+* The design was very bright and colorful
+* Double search bars were confusing
+* Designs for the various pages were cohesive and understandable
+* Clear flow of pages and accessibility
+* Color choice was very cute and bright
+* The recipe difficulty meters are useful
+* Goal of the site is very apparent
 
 ### Pitch Video
 
