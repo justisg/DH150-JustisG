@@ -100,3 +100,5 @@ Some important notes I received from these tests were:
 
 
 ### Conclusion
+Through this UX/UI project, I learned many things about the field because of the hands-on experience. For example:
+*
