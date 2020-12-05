@@ -69,9 +69,12 @@ Protanopia Test | Low-Contrast Test
 Find more information about my design process [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/).
 
 ### High-Fidelity Prototype
-Attached is the high-fidelity prototype of the website.
+Here is a finalized version of the site's wireflow.
+![Wireflow](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/Wireflow.png)
 
+Read more about the high-fidelity prototype design, testing, and changes [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-02/).
 
+<iframe width="1920" height="1080" src="https://xd.adobe.com/embed/96e004fc-d942-4649-86ad-a95e3e0938cd-c3b3/?fullscreen&hints=off" frameborder="0" allowfullscreen></iframe>
 
 ### Evaluations and Revisions
 I conducted two usability tests online over Zoom and two usability tests in person. I was able to screen record two of the tests to see how the users interacted with the high-fidelity prototype and which features they were most drawn to. I also was able to speak with these users to find their opinions, thoughts, and comments on the site. 
