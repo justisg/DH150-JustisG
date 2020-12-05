@@ -37,9 +37,6 @@ Here is one of three user personas, scenarios, and empathy maps:
 
 See the other two personas, scenarios, and empathy maps [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment05/).
 
-### Wireframes and Design
-
-
 ### Low-Fidelity Prototype
 This low-fidelity prototype was used to see the organization of the site and see the flow between the screens. This is a very basic way to test the website and it is much easier to edit when moving to a high-fidelity prototype. When designing this prototype, I made sure to emphasize my goals for the project which were organization, clarity, and ease. I wanted this site to be immediately understood by a user and be free of any major distractions or confusing aspects. 
 
@@ -48,8 +45,33 @@ Here is an image of my original wireflow.
 
 Read more about my low-fidelity prototype [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment06/).
 
+### Wireframes and Design
+Here is an image of my original wireframes as well.
+![Wireflow](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment06/Wireframes.png)
+
+When designing the website, I went through many tests to see what color and typography options were the most readable and fit the nature of the site the best.
+Here are some of the design tests:
+
+Color Test #1 | Color Test #2
+-------------------------------------------|---------------------------------------------
+<img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/colortest1.png" height="300px"> | <img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/colortest2.png" height="300px">
+
+Typography Test #1 | Typography Test #2
+-------------------------------------------|---------------------------------------------
+<img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/typotest1.png" height="300px"> | <img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/typotest2.png" height="300px">
+
+After deciding on my design, I tested it for accessibility. Here are results from some of those tests, specifically the tests relating to color-blindness and contrast:
+
+Protanopia Test | Low-Contrast Test
+-------------------------------------------|---------------------------------------------
+<img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/colorblind1.png" height="300px"> | <img src="https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/colorblind3.png" height="300px">
+
+Find more information about my design process [here](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment07-01/).
+
 ### High-Fidelity Prototype
 Attached is the high-fidelity prototype of the website.
+
+
 
 ### Evaluations and Revisions
 I conducted two usability tests online over Zoom and two usability tests in person. I was able to screen record two of the tests to see how the users interacted with the high-fidelity prototype and which features they were most drawn to. I also was able to speak with these users to find their opinions, thoughts, and comments on the site. 
