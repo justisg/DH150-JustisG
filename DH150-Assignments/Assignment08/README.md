@@ -48,7 +48,7 @@ Read more about my low-fidelity prototype [here](https://justisg.github.io/DH150
 
 ### Wireframes and Design
 Here is an image of my original wireframes as well.
-![Wireflow](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment06/Wireframes.png)
+![Wireflow](https://justisg.github.io/DH150-JustisG/DH150-Assignments/Assignment06/Wireframe.png)
 
 When designing the website, I went through many tests to see what color and typography options were the most readable and fit the nature of the site the best.
 Here are some of the design tests:
