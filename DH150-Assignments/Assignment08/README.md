@@ -97,6 +97,8 @@ Some important notes I received from these tests were:
 * The recipe difficulty meters are useful
 * Goal of the site is very apparent
 
+### Pitch Video
+
 ### Conclusion
 Through this UX/UI project, I learned many things about the field because of the hands-on experience. For example:
 * Usability is an essential aspect of any site, app, or product. This class allowed me to understand just how important it is for a user to be able to easily understand and use a product, specifically a website. If someone cannot quickly grasp the layout, organization, design, etc. they are not likely to return to your site. Therefore, usability is one of the most important aspects of the design process that really encapsulates many other fields and decisions. When designing the wireframes and wireflow of this site, I prioritized clarity and minimalism, which was a constant positive note recieved from users. 
