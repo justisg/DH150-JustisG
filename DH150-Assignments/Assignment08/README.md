@@ -1,5 +1,4 @@
-<p align="center">
-  <b># Squeeze the Day : Cooking Blogs and Efficiency:</b><br>
+# Squeeze the Day: Cooking Blogs and Efficiency
 
 ## Justis Guardia - Digital Humanities 150 Fall 2020
 
