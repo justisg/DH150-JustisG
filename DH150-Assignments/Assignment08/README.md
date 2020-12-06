@@ -98,6 +98,7 @@ Some important notes I received from these tests were:
 * Goal of the site is very apparent
 
 ### Pitch Video
+[![Watch the video](pitch.png)](https://youtu.be/PyqJX6JpghU)
 
 ### Conclusion
 Through this UX/UI project, I learned many things about the field because of the hands-on experience. For example:
